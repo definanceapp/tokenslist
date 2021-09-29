@@ -4,7 +4,7 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 1
+    "patch": 2
   },
   "tags": {},
   "logoURI": "https://raw.githubusercontent.com/definanceapp/tokenslist/main/logo.png",
@@ -158,7 +158,7 @@
       "address": "0x73852c2259fA6FF1Ce268aAb081e660c651bE9e1",
       "symbol": "DEFIN",
       "decimals": 18,
-      "chainId": 56,
+      "chainId": 97,
       "logoURI": "https://raw.githubusercontent.com/definanceapp/tokenslist/main/logo.png"
     }    
   ]
