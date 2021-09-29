@@ -7,7 +7,7 @@
     "patch": 0
   },
   "tags": {},
-  "logoURI": "https://raw.githubusercontent.com/definanceapp/tokenslist/master/logo.png",
+  "logoURI": "https://raw.githubusercontent.com/definanceapp/tokenslist/main/logo.png",
   "keywords": [
     "UNYCSWAP",
     "default"
@@ -19,7 +19,7 @@
       "symbol": "DEFIN",
       "decimals": 18,
       "chainId": 56,
-      "logoURI": "https://raw.githubusercontent.com/definanceapp/tokenslist/master/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/definanceapp/tokenslist/main/logo.png"
     },
     {
       "name": "WBNB Token",
@@ -154,12 +154,12 @@
     
     
     {
-      "name": "Unifinity Credits",
-      "address": "0xd515c8F8Bf70F9858910C5ba6B668B83A046d9BE",
-      "symbol": "UNYC",
+      "name": "DeFinance App",
+      "address": "0x73852c2259fA6FF1Ce268aAb081e660c651bE9e1",
+      "symbol": "DEFIN",
       "decimals": 18,
-      "chainId": 97,
-      "logoURI": "https://raw.githubusercontent.com/kyoudaiai/tokenslist/master/logo.png"
+      "chainId": 56,
+      "logoURI": "https://raw.githubusercontent.com/definanceapp/tokenslist/main/logo.png"
     }    
   ]
 }
